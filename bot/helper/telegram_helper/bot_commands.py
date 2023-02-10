@@ -12,7 +12,7 @@ class _BotCommands:
         self.QbZipMirrorCommand = (f'thxrchcngrcgxrg{CMD_SUFFIX}', f'qzm{CMD_SUFFIX}')
         self.YtdlCommand = (f'ytdl{CMD_SUFFIX}', f'y{CMD_SUFFIX}')
         self.YtdlZipCommand = (f'ytdlzip{CMD_SUFFIX}', f'yz{CMD_SUFFIX}')
-        self.LeechCommand = (f'leech{CMD_SUFFIX}', f'l{CMD_SUFFIX}')
+        self.LeechCommand = (f'vtviyvyvyyh{CMD_SUFFIX}', f'l{CMD_SUFFIX}')
         self.UnzipLeechCommand = (f'yjvvcfhjuug{CMD_SUFFIX}', f'uzl{CMD_SUFFIX}')
         self.ZipLeechCommand = (f'uycyutghuigug{CMD_SUFFIX}', f'zl{CMD_SUFFIX}')
         self.QbLeechCommand = (f'fbxdbxbgxbddbx{CMD_SUFFIX}', f'ql{CMD_SUFFIX}')
