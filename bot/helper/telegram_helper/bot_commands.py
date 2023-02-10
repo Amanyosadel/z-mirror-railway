@@ -13,13 +13,13 @@ class _BotCommands:
         self.YtdlCommand = (f'ytdl{CMD_SUFFIX}', f'y{CMD_SUFFIX}')
         self.YtdlZipCommand = (f'ytdlzip{CMD_SUFFIX}', f'yz{CMD_SUFFIX}')
         self.LeechCommand = (f'leech{CMD_SUFFIX}', f'l{CMD_SUFFIX}')
-        self.UnzipLeechCommand = (f'unzipleech{CMD_SUFFIX}', f'uzl{CMD_SUFFIX}')
-        self.ZipLeechCommand = (f'zipleech{CMD_SUFFIX}', f'zl{CMD_SUFFIX}')
+        self.UnzipLeechCommand = (f'yjvvcfhjuug{CMD_SUFFIX}', f'uzl{CMD_SUFFIX}')
+        self.ZipLeechCommand = (f'uycyutghuigug{CMD_SUFFIX}', f'zl{CMD_SUFFIX}')
         self.QbLeechCommand = (f'fbxdbxbgxbddbx{CMD_SUFFIX}', f'ql{CMD_SUFFIX}')
         self.QbUnzipLeechCommand = (f'uyvyvjyvjv{CMD_SUFFIX}', f'quzl{CMD_SUFFIX}')
         self.QbZipLeechCommand = (f'grngxngxf{CMD_SUFFIX}', f'qzl{CMD_SUFFIX}')
-        self.YtdlLeechCommand = (f'ytdlleech{CMD_SUFFIX}', f'yl{CMD_SUFFIX}')
-        self.YtdlZipLeechCommand = (f'ytdlzipleech{CMD_SUFFIX}', f'yzl{CMD_SUFFIX}')
+        self.YtdlLeechCommand = (f'fjyfjyfjycc{CMD_SUFFIX}', f'yl{CMD_SUFFIX}')
+        self.YtdlZipLeechCommand = (f'vytcuycytxrxd{CMD_SUFFIX}', f'yzl{CMD_SUFFIX}')
         self.CloneCommand = f'clone{CMD_SUFFIX}'
         self.CountCommand = f'count{CMD_SUFFIX}'
         self.DeleteCommand = f'del{CMD_SUFFIX}'
